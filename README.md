@@ -1,7 +1,7 @@
 <h1 align="center">Telerik Software Academy </h1>
 
 <p align="center">
-<img src=http://www.telerik.com/images/newsletters/academy/assets/ninja-top.gif/>
+<a href="http://www.academy.telerik.com" target="_blank"><img src="http://i64.tinypic.com/2e55oqv.gif" border="0" ></a>
 </a>
 </p>
 
