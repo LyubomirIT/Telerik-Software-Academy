@@ -1,3 +1,5 @@
+/* Write an expression that checks if given integer is odd or even. */
+
 function oddOrEven(number) {
     if (number % 2 == 0) {
         return true;
