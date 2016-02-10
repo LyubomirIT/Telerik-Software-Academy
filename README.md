@@ -1,7 +1,7 @@
 <h1 align="center">Telerik Software Academy </h1>
 
 <p align="center">
-<a href="http://www.academy.telerik.com" target="_blank"><img src="http://i64.tinypic.com/2e55oqv.gif" border="0" ></a>
+<img src="http://i68.tinypic.com/e9yp3d.jpg" border="0" alt="Telerik Academy">
 </a>
 </p>
 
